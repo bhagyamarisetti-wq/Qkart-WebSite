@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#account{
+    margin:  auto;
+    border-radius: 2px solid red;
+    height: 700px;
+    width: 600px;
+    background-color:white;
+    padding: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-left: 50px;
+    margin-top:50px ;
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
+    padding-top: 30px;
+    gap:10px;
+
+}
+h3{
+    font-size: 24px;
+    margin: 5px 0 0 0;
+}
+input{
+    height: 50px;
+    width: 80%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    
+}
+button{
+    height: 60px;
+    background-color: blue;
+    color: white;
+    width: 80%;
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 15px;
+
+
+}
+p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#p1{
+    padding-left: 80px;
+    margin-top: 5px;
+}
